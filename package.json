@@ -1,0 +1,16 @@
+{
+  "name": "dog-test",
+  "version": "1.0.3",
+  "scripts": {
+    "dev": "DB=dev-db LEVEL=silly PORT=3333 nodemon dst/server.js"
+  },
+  "author": "unknown",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {},
+  "description": "test",
+  "main": "webpack.config.js",
+  "directories": {
+    "test": "test"
+  }
+}
